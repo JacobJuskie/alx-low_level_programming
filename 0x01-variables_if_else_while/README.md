@@ -1,1 +1,2 @@
-if the number is positive, zero or negative
+task0. Positive anything is better than negative nothing
+
